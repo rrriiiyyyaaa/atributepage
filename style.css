@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+        background-color: rgba(161, 159, 159, 0.61);
+}
+h1{
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 50px;
+}
+.el li{
+    font-size: 25px;
+    margin-left: 35px;
+}
+.el h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.pl li{
+    margin-left: 35px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.pl h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.img{
+    margin-top: 55px;
+    margin-left: 35px;
+}
+.mem h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.mem li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.img1{
+    margin-right: 35px;
+    margin-left: 15px;
+    height: 10%;
+    float: right;
+
+}
+.apj{
+    
+    font-size: 20px;
+
+}
+.pro h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.pro li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.pro p{
+    font-size: 25px;
+    margin-left: 35px;
+
+}
+table , th, td{
+    border: 1px solid black;
+}
+table{
+    list-style: circle;
+}
+.img2{
+    margin-left: 35px;
+    margin-right: 35px;
+    height: 10%;
+    float: left;
+
+}
+.award h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.award table{
+    font-size: 25px;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+table .tab{
+    width: 50%;
+}
+td{
+    text-align: center;
+}
+tr:nth-child(odd){
+    background-color: rgb(160, 159, 159);
+}
+th{
+    background-color: gray;
+}
+.writings h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.writings li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.island h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.island li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.road  h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.road li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.plant h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.plant li{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.img7{
+    float: right;
+    margin-right: 35px;
+    margin-left: 25px;
+}
+p{
+    margin-left: 35px;
+    font-size: 25px;
+}
+.death li{
+    font-size: 25px;
+    margin-left: 35px;
+}
+.death h2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+footer{
+    text-align: center;
+}
+details{
+    margin-left: 35px;
+    font-size: 20px;
+    
+}
+.material-icons {
+    padding: 10px;
+    font-size: 40px;
+    width: 40px;
+    text-decoration: none;
+    margin: 5px 80px;
+}
+.facebook {
+    background: #3b5998;
+    color: white;
+}
+figcaption{
+    font-style: italic;
+    padding: 2px;
+    text-align: right;
+    margin-left: 25px;
+}
